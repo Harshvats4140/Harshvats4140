@@ -94,21 +94,21 @@ Git • GitHub • VS Code • AutoCAD
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshvats4140&show_icons=true&theme=radical&cache_seconds=1800)
 
 ---
 
 ## 🔥 GitHub Streak  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Harshvats4140&theme=radical&cache_seconds=1800)
 
 ---
 
 ## 📫 Connect With Me  
 
 - 💼 LinkedIn: https://www.linkedin.com/in/mr-harshvardhan-4140cucse  
-- 🌐 Ascent Circle: https://ascentcircle.web.app  
-- 📧 Email: your-email@example.com  
+- 🌐 Ascent Circle: https://ascentcircle.in  
+- 📧 Email: harshvats4140@gmail.com  
 
 ---
 
